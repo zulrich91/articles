@@ -1,2 +1,5 @@
-# articles
-A repository of important articles to read.
+# Articles
+
+
+* Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods. 
+
